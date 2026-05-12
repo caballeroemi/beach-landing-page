@@ -22,7 +22,7 @@ This project includes:
 
 ## 📸 Screenshot
 
-![Website Screenshot](./images/screenshot.png)
+![Website Screenshot](./Screenshot.png)
 
 ---
 
